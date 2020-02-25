@@ -1,6 +1,6 @@
 # Queue
 Basic vhdl program represents class queue. Queue is an abstract data type with the functions:
-- queue_init () : Make the stack empty.
+- queue_init () : Make the queue empty.
 - empty () : Return true if the queue is empty. Return false if the queue is not empty.
 - enqueue (val) : Add the item val to the queue.
 - dequeue () : Remove the item least recently added to the queue.
